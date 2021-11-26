@@ -1,28 +1,31 @@
-- Repositorio
 
-  É a pasta do projeto
+   MINHAS ANOTAÃ‡Ã•ES
+
+-  Repositorio
+
+  Ã‰ a pasta do projeto
 
 - Commit
 
-  É um grupo de alterações no codigo
+  Ã‰ um grupo de alteraÃ§Ãµes no codigo
 
 - Branch
 
-  São ramificações do projeto, servem para separar grandes modificações e evitam criar problemas no codigo principal.
+  SÃ£o ramificaÃ§Ãµes do projeto, servem para separar grandes modificaÃ§Ãµes e evitam criar problemas no codigo principal.
 
 - Merge
 
-  União de duas branches
+  UniÃ£o de duas branches
 
 - Clones
  
-  É como uma branch de um repositorio online em um repositorio local. quando se deseja trabalhar em um repositorio 
-  hospedado no github, clona-se esse repositorio para o seu computador, trabalha se nele e então é pedida a permissão 
-  para atualizar as alterações online
+  Ã‰ como uma branch de um repositorio online em um repositorio local. quando se deseja trabalhar em um repositorio 
+  hospedado no github, clona-se esse repositorio para o seu computador, trabalha se nele e entÃ£o Ã© pedida a permissÃ£o 
+  para atualizar as alteraÃ§Ãµes online
 
 - Pull
 
-  É a atualização do repositorio local. É feito um merge do repositorio online com o local
+  Ã‰ a atualizaÃ§Ã£o do repositorio local. Ã‰ feito um merge do repositorio online com o local
 
 - Push
 
@@ -30,12 +33,12 @@
 
 - Fork
 
-  É como um clone, porém dentro do github. isso quer dizer que o repositorio não vai ser baixado para o seu computador, mas
-  será criado um igual em sua conta
+  Ã‰ como um clone, porÃ©m dentro do github. isso quer dizer que o repositorio nÃ£o vai ser baixado para o seu computador, mas
+  serÃ¡ criado um igual em sua conta
 
 - Pull Request
  
-  É um pedido que se faz ao dono do repositorio para que esse atualize o codigo dele com seu codigo. ou seja, você pede para
-  que o dono do projeto ao qual você quer contribuir adicione suas modificações ao projeto oficial
+  Ã‰ um pedido que se faz ao dono do repositorio para que esse atualize o codigo dele com seu codigo. ou seja, vocÃª pede para
+  que o dono do projeto ao qual vocÃª quer contribuir adicione suas modificaÃ§Ãµes ao projeto oficial
  
    
