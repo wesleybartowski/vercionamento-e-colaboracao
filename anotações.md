@@ -17,16 +17,16 @@
 
   União de duas branches
 
-  #Clones
+  ##Clones
  
   É como uma branch de um repositorio online em um repositorio local. quando se deseja trabalhar em um repositorio 
   hospedado no github, clona-se esse repositorio para o seu computador, trabalha se nele e então é pedida a permissão 
   para atualizar as alterações online
 
-  #Pull
+  ##Pull
 
   É a atualização do repositorio local. É feito um merge do repositorio online com o local
-  #Push
+  ##Push
 
   Envia o codigo para o repositorio online
 
